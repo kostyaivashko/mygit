@@ -1,6 +1,8 @@
 body{
 	background-color: red;
+	width: 500px
+	margin: 0 auto;
 }
 p{
-	font-size: 45px;
+	font-size: 25px;
 }
